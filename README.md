@@ -5,7 +5,7 @@
 ## I'm a programmer
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning <b>Flutter</b> and <b>Python</b>
+- 🌱 I’m currently learning <b>Machine Learning</b> and <b>Python</b>
 - 🥅 2020 Goals: Create portfolio
 - ❤️ I love <b>Deep Learning</b>!
 
