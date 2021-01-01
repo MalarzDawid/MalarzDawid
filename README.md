@@ -5,8 +5,8 @@
 ## I'm a programmer
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning <b>Machine Learning</b> and <b>Python</b>
-- 🥅 2020 Goals: Create portfolio
+- 🌱 I’m currently learning <b>Docker</b> and <b>C++</b>
+- 🥅 2021 Goals: Learn DevOps <b>or</b> MachineLearning
 - ❤️ I love <b>Deep Learning</b>!
 
 ### Connect with me:
@@ -15,10 +15,11 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="32" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/></p>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="22" height="22"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="22" height="22"/>
+    
+</p>
