@@ -26,7 +26,6 @@ I'm from Poland, living in Cracow 🐉 and currently working at **From Poland Wi
 
 ## 🥅 Goals 2022:
 - Algorithms and Data Structures 🌿
-- Graph Neural Network 🌱
 
 > 🌱 => to-do  
 > 🌿 => in-progress  
