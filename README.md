@@ -24,8 +24,9 @@ I'm from Poland, living in Cracow 🐉 and currently working at **From Poland Wi
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CML-informational?style=flat&logo=cml&logoColor=white&color=2bbc8a)
 
-## 🥅 Goals 2022:
+## 🥅 Goals 2023:
 - Algorithms and Data Structures 🌿
+- Reinforcement Learning 🌱
 
 > 🌱 => to-do  
 > 🌿 => in-progress  
